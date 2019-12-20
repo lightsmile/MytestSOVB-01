@@ -10,4 +10,7 @@ Want to add ability to change amount sent on a slider from min to mine( 21) to m
 
 Any are free to contribute as I already just adapted this from something else :)
 
+also can't get the SVX symbol to render on the site..... so any help with that is appreciated lol
+
+
 
