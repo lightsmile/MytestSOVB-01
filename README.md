@@ -1,4 +1,5 @@
-#SovdexBurnMiner
+SovdexBurnMiner
+
 The SovdexBurnMiner is a adaptation of the EIDOS miner
 
 It is set up for jungle now and set to 21 SOV transfer
