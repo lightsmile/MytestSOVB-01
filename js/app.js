@@ -524,16 +524,9 @@
                 return i("a", {
                     attrs: {
                         target: "_blank",
-                        href: "https://www.tokenpocket.pro/"
+                        href: "https://sovdex.github.io/SoVdeXlite/"
                     }
-                }, [i("img", {
-                    staticClass: "SVXAutoMiner-logo",
-                    attrs: {
-                        src: n("cf05"),
-                        alt: "",
-                        height: "30"
-                    }
-                })])
+                }, )
             }],
             f = (n("ac6a"),
                 n("28a5"),
@@ -1014,6 +1007,6 @@
         o.a
     },
     cf05: function(t, e, n) {
-        t.exports = n.p + "img/logo.aa22c7a2.png"
+        t.exports = n.p
     }
 });
