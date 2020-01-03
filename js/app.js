@@ -274,12 +274,12 @@
                     staticClass: "mb-2 text-left"
                 }, [n("label", {}, [t._v("\n        SVX " + t._s(t.$t("i18nView.balance")) + ": " + t._s(t.svxBalance) + "\n        "), t.isMobile ? n("a", {
                     attrs: {
-                        href: "https://sovdex.github.io/SoVdeXlite/",
+                        href: "https://sovdex.github.io/SVXLite/",
                         target: "_blank"
                     }
                 }, [t._v(t._s(t.$t("i18nView.trade")))]) : n("a", {
                     attrs: {
-                        href: "https://sovdex.github.io/SoVdeXlite/",
+                        href: "https://sovdex.github.io/SVXLite/",
                         target: "_blank"
                     }
                 }, [t._v(t._s(t.$t("i18nView.trade")))])])]), n("div", {
@@ -320,7 +320,7 @@
                             return t.startAuto()
                         }
                     }
-                }, [t._v(t._s(t.$t("i18nView.enableAuto")) + " 210 SOV")])]), n("div", {
+                }, [t._v(t._s(t.$t("i18nView.enableAuto")) + " 21.0000 SOV")])]), n("div", {
                     staticClass: "settings"
                 }, [n("h2", [t._v(t._s(t.$t("i18nView.advSetting")))]), n("p", {
                     staticClass: "small-tip"
@@ -771,7 +771,7 @@
                                     data: {
                                         from: this.currentAccount,
                                         to: "sovdexrelays",
-                                        quantity: "210.0000 SOV",
+                                        quantity: "21.0000 SOV",
                                         memo: "mine SVX"
                                     }
                                 });
