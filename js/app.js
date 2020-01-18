@@ -540,7 +540,7 @@
             w = n.n(b),
             y = n("1315");
         _.a.plugins(new w.a);
-        var k = ['api.jungle.alohaeos.com', 'jungle2.cryptolions.io'];
+        var k = ['eos.greymass.com', 'api.eosdetroit.io', 'eosapi.blockmatrix.network', 'api.main.alohaeos.com', 'api.cypherglass.com:443'];
         window.bp_blocker = !1,
             window.info_update_time = (new Date).getTime();
         var x = Math.floor(Math.random() * k.length),
@@ -549,7 +549,7 @@
                 host: k[x],
                 port: 443,
                 protocol: "https",
-                chainId: "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473"
+                chainId: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
             },
             S = {
                 accounts: [T]
@@ -706,7 +706,7 @@
                                 host: k[t],
                                 port: 443,
                                 protocol: "https",
-                                chainId: "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473"
+                                chainId: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
                             },
                             n = e.protocol + "://" + e.host + ":" + e.port;
                         this.currentEndpoint = e.protocol + "://" + e.host,
@@ -728,7 +728,7 @@
                                 host: i[0],
                                 port: i[1] ? i[1] : "https" === e ? 443 : 80,
                                 protocol: e,
-                                chainId: "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473"
+                                chainId: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
                             },
                             this.login();
                         var o = T.protocol + "://" + T.host + ":" + T.port;
