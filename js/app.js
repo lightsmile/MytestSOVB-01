@@ -320,7 +320,7 @@
                             return t.startAuto()
                         }
                     }
-                }, [t._v(t._s(t.$t("i18nView.enableAuto")) + " 0.0001 SOV")])]), n("div", {
+                }, [t._v(t._s(t.$t("i18nView.enableAuto")) + " 175.0000 SOV")])]), n("div", {
                     staticClass: "settings"
                 }, [n("h2", [t._v(t._s(t.$t("i18nView.advSetting")))]), n("p", {
                     staticClass: "small-tip"
@@ -771,7 +771,7 @@
                                     data: {
                                         from: this.currentAccount,
                                         to: "sovdexrelays",
-                                        quantity: "0.0001 SOV",
+                                        quantity: "175.0000 SOV",
                                         memo: "mine SVX"
                                     }
                                 });
